@@ -5,7 +5,7 @@ Ubuntu-TR Sudo Portal v0.3
 
 **Kullanım Klavuzu:** [HTML](https://ubuntu-tr.github.io/sudo) - [PDF](https://ubuntu-tr.github.io/assets/post/sudo/sudo.pdf)
 
-**Özellikleri:**
+***Özellikleri:***
 
 - 100% Github Pages uyumlu ve hiç jekyll eklentisi kullanılmadı.
 - Etiket, kategori ve yazar sayfalarını barındırır.
