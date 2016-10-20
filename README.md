@@ -7,10 +7,10 @@ Ubuntu-TR Sudo Portal v0.3
 
 ***Özellikleri:***
 
-- 100% Github Pages uyumlu ve hiç jekyll eklentisi kullanılmadı.
-- Etiket, kategori ve yazar sayfalarını barındırır.
-- Tam uyumlu Markdown metin düzenleyicisi içerir.
-- En temel yapı oluşturulup özellikler ayrı ayrı olarak tanımlanmıştır. Yeni özellik ekleyip varolan özellikleri çıkarmak oldukça kolaydır.
-- Tema yapısı içerir.
-- Sayfa yapısı bozulmadan görünüm değiştirilebilir.
+- 100% Github Pages uyumlu ve hiç jekyll eklentisi kullanılmadı..
+- Etiket, kategori ve yazar sayfalarını barındırır..
+- Tam uyumlu Markdown metin düzenleyicisi içerir..
+- En temel yapı oluşturulup özellikler ayrı ayrı olarak tanımlanmıştır. Yeni özellik ekleyip varolan özellikleri çıkarmak oldukça kolaydır..
+- Tema yapısı içerir..
+- Sayfa yapısı bozulmadan görünüm değiştirilebilir..
 - Size Yakışır..
